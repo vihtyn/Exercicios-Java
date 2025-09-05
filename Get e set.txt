@@ -68,7 +68,7 @@ public class Tarefas {
     }
 
     //Completa
-    public boolean getcompleta(){
+    public boolean iscompleta(){
         return completa;
     }
 
@@ -85,3 +85,4 @@ public class Tarefas {
         this.dataAgora = dataAgora;
     }
 }
+
